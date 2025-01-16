@@ -1,0 +1,7 @@
+{
+  "favourite prgm language": {
+    "title": "What’s your favorite programming language?",
+    "options": ["javascript", "python", "c", "NOTA"],
+    "results": { "javascript": 10, "python": 8, "c": 4, "NOTA": 1 }
+  }
+}

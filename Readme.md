@@ -112,7 +112,7 @@ Poll created successfully!
 ---
 
 Choice: 2
-Vote on: What’s your favorite p-rogramming language?
+Vote on: What’s your favorite programming language?
 Options:
 1. JavaScript
 2. Python
