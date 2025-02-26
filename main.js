@@ -1,2 +1,4 @@
 import admins from "./admins.json" with {type: "json"};
-console.log(admins);
+import participants from "./participants.json" with {type: "json"};
+import surveys from "./surveys.json" with {type: "json"};
+
